@@ -5,3 +5,9 @@ Agile:
 Non-Agile
     Pros: More time on each step, able ot create more finished product
     Cons - Slower timeline, less resilient to change of scope
+
+(b) 
+Product Owner – Sets direction for the team, handles releases
+and stakeholder management
+Scrum Master - All scrum related tasks – JIRA tooling, facilitating
+sprints and meetings
