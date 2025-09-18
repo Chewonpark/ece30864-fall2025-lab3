@@ -36,3 +36,4 @@ Epics
 ▪ An Epic could present the theme/topic to which a task belongs or represent a big project, for example “Migration customer X” in consulting or “Website Relaunch” in marketing.
 Bug
 ▪ A bug is a problem which impairs or prevents the functions of a product.
+.
